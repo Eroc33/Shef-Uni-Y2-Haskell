@@ -1,0 +1,24 @@
+*Tests> exampleEnigmaSingleCharEncodingMatches
+True
+*Tests> exampleLongestMenuLengthMatches
+True
+*Tests> runTests
+=== prop_SteckerReverseable from Tests.hs:96 ===
++++ OK, passed 100 tests.
+
+=== prop_ReflectReverseable from Tests.hs:99 ===
++++ OK, passed 100 tests.
+
+=== prop_EnigmaEncodeReverseable from Tests.hs:102 ===
++++ OK, passed 100 tests.
+
+=== prop_EnigmaEncodeStringReverseable from Tests.hs:105 ===
++++ OK, passed 100 tests.
+
+=== prop_RotorAdvanceIsModulo from Tests.hs:107 ===
++++ OK, passed 100 tests.
+
+=== prop_AdvanceRotorsWraps from Tests.hs:112 ===
++++ OK, passed 100 tests.
+
+True
